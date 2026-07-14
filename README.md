@@ -1,6 +1,6 @@
 # 🧬 OmniSeq Studio
 
-OmniSeq Studio is a robust, end-to-end R Shiny application designed for automated RNA-seq transcriptomics analysis. This tool bridges the gap between raw sequencing data and biological interpretation, featuring a hardened analytical engine designed to handle diverse datasets—from small test samples to large-scale experiments.
+OmniSeq Studio is a robust, end-to-end R Shiny application designed for automated RNA-seq transcriptomics analysis. This tool bridges the gap between raw sequencing data and biological interpretation, featuring a hardened analytical engine designed to handle diverse datasets from small test samples to large-scale experiments.
 
 ## 🚀 Key Features
 
