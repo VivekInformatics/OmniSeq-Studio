@@ -9,6 +9,8 @@ OmniSeq Studio is a robust, end-to-end R Shiny application designed for automate
 * **Comprehensive Diagnostics:** Includes 18 integrated visualizations for end-to-end quality control, differential expression analysis, and functional enrichment.
 * **Flexible Normalization:** Automatically handles standard DESeq2 workflows, including automated variance-stabilized transformation (VST) and log2-fallback normalization.
 * **Interactive Exploration:** Built-in DataTables for gene list filtering and interactive `plotly` charts for sample-level diagnostics.
+  
+<img width="1918" height="867" alt="Screenshot 2026-07-14 102131" src="https://github.com/user-attachments/assets/61be6306-bee0-4430-aecc-3e88e5d954f9" />
 
 ## 🛠️ Technical Workflow
 
